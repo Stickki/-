@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "palkovlad64@gmail.com",
+      "password": "R16R74Rr",
+      "name": "stick",
+      "role": "admin",
+      "avatar": "https://static.wikia.nocookie.net/theforest_gamepedia/images/7/70/UpgradedStickFarket.png/revision/latest?cb=20171002132132",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 1
+    }
+  ]
+}
